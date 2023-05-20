@@ -1,3 +1,5 @@
+<p align="center"><img height="100%" alt="Hello! I'm Harsh. I do open source :)" src="./assets/github-profile-banner.png" /></p>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=peb-peb.peb-peb">
 
 ## Hi there 👋, I'm Harsh!
