@@ -13,17 +13,17 @@
 ### 🔨 Languages and Tools:
 
 <p align="center">
-  <img title="PYTHON" height="25" src="assets/python.svg">
-  <img title="C" height="25" src="assets/c.svg">
-  <img title="CPP" height="25" src="assets/cpp.svg">
-  <img title="JAVA" height="25" src="assets/java.svg">
-  <img title="GO" height="25" src="assets/go.svg">
-  <img title="GIT" height="25" src="assets/git.svg">
-  <img title="GOOGLE-CLOUD" height="25" src="assets/google-cloud.svg">
-  <img title="DOCKER" height="25" src="assets/docker.svg">
-  <img title="FLUTTER" height="25" src="assets/flutter.svg">
-  <img title="ANGULAR" height="25" src="assets/angular.svg">
-  <img title="FIGMA" height="25" src="assets/figma.svg">
+  <img title="PYTHON" height="42" src="assets/python.svg">
+  <img title="C" height="42" src="assets/c.svg">
+  <img title="CPP" height="42" src="assets/cpp.svg">
+  <img title="JAVA" height="42" src="assets/java.svg">
+  <img title="GO" height="42" src="assets/go.svg">
+  <img title="GIT" height="42" src="assets/git.svg">
+  <img title="GOOGLE-CLOUD" height="42" src="assets/google-cloud.svg">
+  <img title="DOCKER" height="42" src="assets/docker.svg">
+  <img title="FLUTTER" height="42" src="assets/flutter.svg">
+  <img title="ANGULAR" height="42" src="assets/angular.svg">
+  <img title="FIGMA" height="42" src="assets/figma.svg">
 </p>
 
 
