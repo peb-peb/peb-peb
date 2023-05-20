@@ -1,16 +1,18 @@
-### Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=peb-peb.peb-peb">
 
-<!--
-**peb-peb/peb-peb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋, I'm Harsh!
 
-Here are some ideas to get you started:
+### 🧐 More About Me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on [GCP Scanner](https://github.com/google/gcp_scanner) 
+- 💬 &nbsp; Ask me about anything tech
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harsh-5a8a45216/)
+- 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1cTnWHeDWKt423uFH5sqztFL9c8bpNrykXjekZswl7sY/edit?usp=sharing)
+- ⚡ Fun fact: Not all fun facts are True.
+
+### 🔨 Languages and Tools:
+
+
+
+### 📊 Github Stats
+
