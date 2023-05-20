@@ -12,7 +12,7 @@
 
 ### 🔨 Languages and Tools:
 
-<p align="center">
+<p align="left">
   <img title="PYTHON" height="42" src="assets/python.svg">
   <img title="C" height="42" src="assets/c.svg">
   <img title="CPP" height="42" src="assets/cpp.svg">
@@ -29,3 +29,4 @@
 
 ### 📊 Github Stats
 
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=peb-peb&theme=transparent&show_icons=true&rank_icon=github&hide_rank=false&count_private=true)
