@@ -10,7 +10,7 @@
 - 💬 &nbsp; Ask me about anything tech
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/harsh-5a8a45216/)
 - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1cTnWHeDWKt423uFH5sqztFL9c8bpNrykXjekZswl7sY/edit?usp=sharing)
-- ⚡ Fun fact: Not all fun facts are True.
+- ⚡ Fun fact: _**Not all fun facts are True**_.
 
 ## 🔨 Languages and Tools:
 
