@@ -12,7 +12,7 @@
 - 📝 &nbsp; Checkout my [resume](https://docs.google.com/document/d/1cTnWHeDWKt423uFH5sqztFL9c8bpNrykXjekZswl7sY/edit?usp=sharing)
 - ⚡ Fun fact: Not all fun facts are True.
 
-### 🔨 Languages and Tools:
+## 🔨 Languages and Tools:
 
 <p align="left">
   <img title="PYTHON" height="42" src="assets/python.svg">
@@ -29,6 +29,6 @@
 </p>
 
 
-### 📊 Github Stats
+## 📊 Github Stats
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=peb-peb&theme=transparent&show_icons=true&rank_icon=github&hide_rank=false&count_private=true)
