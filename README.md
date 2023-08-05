@@ -25,6 +25,7 @@
   <img title="DOCKER" height="42" src="assets/docker.svg">
   <img title="FLUTTER" height="42" src="assets/flutter.svg">
   <img title="ANGULAR" height="42" src="assets/angular.svg">
+  <img title="FIGMA" height="42" src="assets/mysql.svg">
   <img title="FIGMA" height="42" src="assets/figma.svg">
 </p>
 
